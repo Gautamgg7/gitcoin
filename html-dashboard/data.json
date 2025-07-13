@@ -1,24 +1,29 @@
 {
-  "lastUpdated": "2025-07-12T00:00:27.567Z",
+  "lastUpdated": "2025-07-13T00:00:28.292Z",
   "stats": {
     "users": {
-      "count": 32999,
-      "change": -1.7
+      "count": 33366,
+      "change": -3.1
     },
     "revenue": {
-      "amount": 226924,
-      "change": 12.1
+      "amount": 228200,
+      "change": 2.8
     },
     "projects": {
-      "count": 362,
-      "change": 3.9
+      "count": 363,
+      "change": 2.2
     },
     "tasks": {
-      "count": 1984,
-      "change": -4.4
+      "count": 1998,
+      "change": -4
     }
   },
   "activities": [
+    {
+      "type": "task",
+      "title": "User updated profile",
+      "timestamp": "2025-07-13T00:00:28.292Z"
+    },
     {
       "type": "task",
       "title": "Invoice generated",
@@ -38,48 +43,39 @@
       "type": "alert",
       "title": "Project created",
       "timestamp": "2025-07-09T00:01:00.847Z"
-    },
-    {
-      "type": "task",
-      "title": "Project milestone reached",
-      "timestamp": "2025-07-08T00:00:37.275Z"
     }
   ],
   "weeklyActivity": [
     {
       "day": "Mon",
-      "value": 11
-    },
-    {
-      "day": "Tue",
-      "value": 34
-    },
-    {
-      "day": "Wed",
-      "value": 13
-    },
-    {
-      "day": "Thu",
-      "value": 56
-    },
-    {
-      "day": "Fri",
-      "value": 15
-    },
-    {
-      "day": "Sat",
       "value": 10
     },
     {
+      "day": "Tue",
+      "value": 29
+    },
+    {
+      "day": "Wed",
+      "value": 10
+    },
+    {
+      "day": "Thu",
+      "value": 46
+    },
+    {
+      "day": "Fri",
+      "value": 10
+    },
+    {
+      "day": "Sat",
+      "value": 18
+    },
+    {
       "day": "Sun",
-      "value": 50
+      "value": 52
     }
   ],
   "performanceMetrics": [
-    {
-      "date": "2023-10-03",
-      "value": 28
-    },
     {
       "date": "2023-10-04",
       "value": 27
@@ -103,6 +99,10 @@
     {
       "date": "2023-10-09",
       "value": 11
+    },
+    {
+      "date": "2023-10-10",
+      "value": 12
     }
   ]
 }
