@@ -1,24 +1,29 @@
 {
-  "lastUpdated": "2025-07-17T00:00:18.192Z",
+  "lastUpdated": "2025-07-18T00:00:47.257Z",
   "stats": {
     "users": {
-      "count": 38324,
-      "change": 12.8
+      "count": 39180,
+      "change": -2.3
     },
     "revenue": {
-      "amount": 239751,
-      "change": 2.6
+      "amount": 244766,
+      "change": -1.8
     },
     "projects": {
-      "count": 363,
-      "change": -0.4
+      "count": 364,
+      "change": 1.9
     },
     "tasks": {
-      "count": 2076,
-      "change": 4.8
+      "count": 2086,
+      "change": 19.1
     }
   },
   "activities": [
+    {
+      "type": "payment",
+      "title": "New user registered",
+      "timestamp": "2025-07-18T00:00:47.257Z"
+    },
     {
       "type": "project",
       "title": "Project milestone reached",
@@ -38,48 +43,39 @@
       "type": "message",
       "title": "User updated profile",
       "timestamp": "2025-07-14T00:00:10.200Z"
-    },
-    {
-      "type": "task",
-      "title": "User updated profile",
-      "timestamp": "2025-07-13T00:00:28.292Z"
     }
   ],
   "weeklyActivity": [
     {
       "day": "Mon",
-      "value": 10
-    },
-    {
-      "day": "Tue",
-      "value": 25
-    },
-    {
-      "day": "Wed",
-      "value": 16
-    },
-    {
-      "day": "Thu",
-      "value": 28
-    },
-    {
-      "day": "Fri",
-      "value": 12
-    },
-    {
-      "day": "Sat",
       "value": 14
     },
     {
+      "day": "Tue",
+      "value": 33
+    },
+    {
+      "day": "Wed",
+      "value": 23
+    },
+    {
+      "day": "Thu",
+      "value": 21
+    },
+    {
+      "day": "Fri",
+      "value": 10
+    },
+    {
+      "day": "Sat",
+      "value": 10
+    },
+    {
       "day": "Sun",
-      "value": 49
+      "value": 44
     }
   ],
   "performanceMetrics": [
-    {
-      "date": "2023-10-08",
-      "value": 15
-    },
     {
       "date": "2023-10-09",
       "value": 11
@@ -103,6 +99,10 @@
     {
       "date": "2023-10-14",
       "value": 15
+    },
+    {
+      "date": "2023-10-15",
+      "value": 38
     }
   ]
 }
